@@ -1,0 +1,3 @@
+Earnings before tax: 12345655.0
+Profit: 12037013.6
+Ratio: 1.026
